@@ -1,0 +1,21 @@
+What To Do Next
+---------------
+
+
+Hmmm...wondering what you should add in the next commit?
+
+
+TheRealM3TR0 suggests:
+
+*Make some custom tiles for Enemy Territory. I am the worst texture artist in the world.
+
+*Add in some more story.
+
+*Work out an ending plan.
+
+*Add your own suggestions down here when you think of some yourself!
+
+
+---THAT'S ALL FOR NOW---
+
+Are you ready to commit now?
